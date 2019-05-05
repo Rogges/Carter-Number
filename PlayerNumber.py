@@ -18,7 +18,7 @@ class PlayerGraph():
 
 		pass
 
-	def is_between(self, player2_id, player_inter_id)
+	def is_between(self, player2_id, player_inter_id):
 
 		'''
 		Determines whether there is a connection between player_id
